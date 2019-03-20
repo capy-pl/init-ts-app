@@ -2,8 +2,8 @@
   "name": "create-ts-app",
   "version": "1.0.0",
   "description": "Command for quickly create full stack typescript(express and React) project.",
-  "main": "src/index.js",
-  "bin": "src/index.js",
+  "main": "lib/cli.js",
+  "bin": "lib/cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
