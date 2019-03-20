@@ -1,0 +1,12 @@
+# ignore node modules.
+node_modules/
+
+# ignore coverage report.
+coverage/
+
+# ignore build file.
+dist/
+
+# ignore semantic
+semantic
+semantic.json
