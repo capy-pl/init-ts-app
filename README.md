@@ -1,12 +1,12 @@
 ## Installation
 ```
-npm install -g create-ts-app
+npm install -g init-ts-app
 ```
 
 ## Quick Start
 1. Create your project.
 ```
-create-ts-app <your-app-name>
+init-ts-app <your-app-name>
 ```
 2. Install all dependencies.
 ```
