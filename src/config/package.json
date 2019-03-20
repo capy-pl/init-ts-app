@@ -7,7 +7,6 @@
     "test": "jest",
     "storybook": "start-storybook"
   },
-  "author": "Philip L",
   "license": "ISC",
   "dependencies": {
     "@types/react-router-dom": "^4.3.1",
