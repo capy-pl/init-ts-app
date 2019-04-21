@@ -1,6 +1,6 @@
 {
   "name": "init-ts-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command for quickly create full stack typescript(express and React) project.",
   "main": "lib/cli.js",
   "bin": "lib/cli.js",
